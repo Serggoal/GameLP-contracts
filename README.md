@@ -1,5 +1,6 @@
 # GameLP-contracts
 Only solidity contracts
+
 First of all deploy VRFv2Consumer.sol to connect with ChainLink(need subscriptionId, you can use #6108 for Poligon Mumbay testnet network).
 
 Then deploy MainLP.sol
