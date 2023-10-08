@@ -5,6 +5,6 @@ First of all deploy VRFv2Consumer.sol to connect with ChainLink(need subscriptio
 
 Then deploy MainLP.sol
 
-Then deploy StoneGame.sol (need two previous smart-conntracts).
+Then deploy StoneGame.sol (need two previous smart-contracts).
 
 Let's go to play: provide liquidity (depo()) and make the bets.
